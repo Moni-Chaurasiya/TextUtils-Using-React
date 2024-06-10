@@ -1,5 +1,7 @@
 {
+  
   "name": "textutils",
+  "homepage": "http://Moni-Chaurasiya.github.io/TextUtils-Using-React",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
